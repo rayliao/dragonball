@@ -5,7 +5,7 @@
 ## JavaScript
 
 ### 数据可视化
-*web版数据可视化工具.*
+web版数据可视化工具。
 
 * [d3](https://github.com/mbostock/d3) - 基于D3的图表库.
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
@@ -108,8 +108,7 @@
 * [Vibrant.js] (https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
 
 
-## 加载状态
-*Libraries for indicate load status.*
+### 加载状态
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
 * [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
@@ -188,18 +187,18 @@ http://www.listjs.com
 * [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device.
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 
-## 表格列表
+### 表格列表
 
 * [jTable](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
 * [DataTables](http://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
 
 
-## UI框架
+### UI框架
 
 * [Semantic UI](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 
 
-## 动画
+### 动画
 
 * [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
@@ -210,12 +209,12 @@ http://www.listjs.com
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.
 
 
-## ES6
+### ES6
 
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 
 
-# Other Awesome Lists
+## 说明
 **主要参考下面的lists**
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
