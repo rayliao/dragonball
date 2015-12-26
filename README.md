@@ -5,7 +5,6 @@
 ## JavaScript
 
 ### 数据可视化
-web版数据可视化工具。
 
 * [d3](https://github.com/mbostock/d3) - 基于D3的图表库.
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
@@ -18,7 +17,6 @@ web版数据可视化工具。
 
 * [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript.
 * [timesheet.js](https://github.com/semu/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
-
 
 ### 编辑器
 
@@ -39,13 +37,11 @@ web版数据可视化工具。
 * [TinyMCE](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 * [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
 
-
 ### 文件工具
 *Libraries for working with files.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 * [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
-
 
 ### 程序功能
 *Functional programming libraries to extend JavaScript’s capabilities.*
@@ -58,7 +54,6 @@ web版数据可视化工具。
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 
-
 ### 日期
 *Date Libraries.*
 
@@ -69,7 +64,6 @@ web版数据可视化工具。
 * [date](https://github.com/MatthewMueller/date) - Date() for humans.
 * [ms.js](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 
-
 ### 数字
 
 * [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
@@ -79,7 +73,6 @@ web版数据可视化工具。
 * [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript
-
 
 ### 存储
 
@@ -96,7 +89,6 @@ web版数据可视化工具。
 * [DB.js] (https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
 * [lawnchair.js] (https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
 
-
 ### 颜色
 
 * [randomColor](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
@@ -106,7 +98,6 @@ web版数据可视化工具。
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 * [Vibrant.js] (https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
-
 
 ### 加载状态
 
@@ -123,7 +114,6 @@ web版数据可视化工具。
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS.
 
-
 ### 验证
 
 * [Parsley.js](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript.
@@ -134,7 +124,6 @@ web版数据可视化工具。
 * [BootstrapValidator](https://github.com/nghuuphuoc/bootstrapvalidator) - The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3.
 * [is.js](https://github.com/arasatasaygin/is.js) -  Check types, regexps, presence, time and more.
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
-
 
 ### 轮播
 
@@ -192,11 +181,9 @@ http://www.listjs.com
 * [jTable](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
 * [DataTables](http://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
 
-
 ### UI框架
 
 * [Semantic UI](http://semantic-ui.com/) - UI Kit with lots of themes and elements
-
 
 ### 动画
 
@@ -208,11 +195,17 @@ http://www.listjs.com
 * [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitionend event.
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.
 
-
 ### ES6
 
-* [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
+* [ECMAScript 6入门](http://es6.ruanyifeng.com/) - 是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新引入的语法特性。
 
+## 网站
+
+### 工具类
+
+* [百度字体编辑器](http://font.baidu.com/editor/) - 可以方便导入导出字体文件，编辑单个字体图标图标。
+
+### 设计类
 
 ## 说明
 **主要参考下面的lists**
