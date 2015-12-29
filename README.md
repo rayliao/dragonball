@@ -1,4 +1,4 @@
-# Dragonball
+﻿# Dragonball
 
 对自己有用的收藏，有七颗的量，就可以召唤龙珠了。
 
@@ -66,6 +66,7 @@
 
 ### 数字
 
+* [jquery-numerator](https://github.com/garethdn/jquery-numerator) - 简单的计数动画插件
 * [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
 * [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
@@ -187,17 +188,24 @@ http://www.listjs.com
 
 ### 动画
 
-* [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
+* [velocity](https://github.com/julianshapiro/velocity) - 兼容和性能都挺好的，挺全面的动画库
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 * [impess.js](https://github.com/impress/impress.js) - Make Prezi-like presentations with CSS3 transformations/transitions in an HTML document.
-* [bounce.js](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
-* [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
-* [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitionend event.
+* [bounce.js](https://github.com/tictail/bounce.js) - 漂亮的css3动画库
+* [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - 基于svg，很强大的动画效果
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.
 
 ### ES6
 
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/) - 是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新引入的语法特性。
+
+## CSS
+
+### 框架/库
+
+* [normalize.css](https://github.com/necolas/normalize.css) - 一个用于重置浏览器内置样式的库，bootstrap也用这个
+* [Animate.css](https://daneden.github.io/animate.css/) - css动画效果
+* [css3lib](http://css3lib.alloyteam.com/) -  CSS3 UI 库，alloyteam团队出品 
 
 ## 网站
 
