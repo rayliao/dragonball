@@ -192,6 +192,7 @@ http://www.listjs.com
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 * [impess.js](https://github.com/impress/impress.js) - Make Prezi-like presentations with CSS3 transformations/transitions in an HTML document.
 * [bounce.js](https://github.com/tictail/bounce.js) - 漂亮的css3动画库
+* [threejs.js](http://threejs.org/) - 3d动画大全
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - 基于svg，很强大的动画效果
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.
 
@@ -212,6 +213,7 @@ http://www.listjs.com
 ### 工具类
 
 * [百度字体编辑器](http://font.baidu.com/editor/) - 可以方便导入导出字体文件，编辑单个字体图标图标。
+* [更好的选择英文字体](http://fontpair.co/) - 标题和内容的字体搭配，更好的选择字体。
 
 ### 设计类
 
