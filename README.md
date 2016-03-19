@@ -1,8 +1,8 @@
 ﻿# Dragonball
 
 对自己有用的收藏，有七颗的量，就可以召唤龙珠了。
-* [codrops收藏](/rayliao/dragonball/blob/gh-pages/codrops.md)
-* [网站收藏](/rayliao/dragonball/blob/gh-pages/website.md)
+* [codrops收藏](codrops.md)
+* [网站收藏](website.md)
 
 ### 数据可视化
 
