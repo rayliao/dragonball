@@ -1,8 +1,8 @@
 ﻿# Dragonball
 
 对自己有用的收藏，有七颗的量，就可以召唤龙珠了。
-
-## JavaScript
+* [codrops收藏](/rayliao/dragonball/blob/gh-pages/codrops.md)
+* [网站收藏](/rayliao/dragonball/blob/gh-pages/website.md)
 
 ### 数据可视化
 
@@ -57,15 +57,11 @@
 
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/) - 是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新引入的语法特性。
 
-## CSS
-
-### 框架/库
+### CSS框架/库
 
 * [normalize.css](https://github.com/necolas/normalize.css) - 一个用于重置浏览器内置样式的库，bootstrap也用这个。
 * [Animate.css](https://daneden.github.io/animate.css/) - css3动画效果
 * [css3lib](http://css3lib.alloyteam.com/) -  CSS3 UI 库，alloyteam团队出品 
-
-## 网站
 
 ### 工具类
 
@@ -75,7 +71,7 @@
 
 ### 设计类
 
-## 说明
+### 说明
 **主要参考下面的lists**
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
