@@ -11,3 +11,9 @@
 * [HeaderEffects](http://tympanus.net/Development/HeaderEffects/ ) - 多种向下滚动头部导航变化的效果。
 * [CaptionHoverEffects](http://tympanus.net/Tutorials/CaptionHoverEffects/index.html ) - 多种标题字幕的显示效果，列表的时候鼠标移上去。
 * [HoverEffectIdeas]( http://tympanus.net/Development/HoverEffectIdeas/ ) - 多种图片和文字，在鼠标移上去的效果。
+
+### 神奇的动画
+
+* [AnimatedTextFills](http://tympanus.net/Tutorials/AnimatedTextFills/index.html ) - 动画字体
+* [TextStylesHoverEffects](http://tympanus.net/Development/TextStylesHoverEffects/ ) - 动画字体，鼠标移上去的时候效果很好看。
+* [AnimatedHeaderBackgrounds](http://tympanus.net/Development/AnimatedHeaderBackgrounds/index.html ) - 动画背景，装饰。

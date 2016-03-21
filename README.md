@@ -9,13 +9,6 @@
 * [d3](https://github.com/mbostock/d3) - 基于D3的图表库.
 * [echarts](https://github.com/ecomfe/echarts) - 百度图表
 
-### Timeline
-
-### 编辑器
-
-### 文件工具
-*Libraries for working with files.*
-
 ### 程序功能
 *Functional programming libraries to extend JavaScript’s capabilities.*
 
@@ -65,6 +58,7 @@
 
 ### 工具类
 
+* [幻灯片演示插件](https://github.com/hakimel/reveal.js) 
 * [阿里巴巴矢量图标库](http://iconfont.cn/) - 有很多的字体图标库可以用，可以直接导出使用。
 * [百度字体编辑器](http://font.baidu.com/editor/) - 可以方便导入导出字体文件，编辑单个字体图标图标。
 * [更好的选择英文字体](http://fontpair.co/) - 标题和内容的字体搭配，更好的选择字体。
