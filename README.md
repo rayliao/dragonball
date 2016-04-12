@@ -3,6 +3,7 @@
 对自己有用的收藏，有七颗的量，就可以召唤龙珠了。
 * [codrops收藏](codrops.md)
 * [网站收藏](website.md)
+* [教程集合](tutorial.md)
 
 ### 数据可视化
 
@@ -58,8 +59,8 @@
 
 ### 工具类
 
-* [幻灯片演示插件](https://github.com/hakimel/reveal.js) 
-* [阿里巴巴矢量图标库](http://iconfont.cn/) - 有很多的字体图标库可以用，可以直接导出使用。
+* [reveal.js](https://github.com/hakimel/reveal.js) - 幻灯片演示插件
+* [iconfont](http://iconfont.cn/) - 阿里巴巴矢量图标库，有很多的字体图标库可以用，可以直接导出使用。
 * [百度字体编辑器](http://font.baidu.com/editor/) - 可以方便导入导出字体文件，编辑单个字体图标图标。
 * [更好的选择英文字体](http://fontpair.co/) - 标题和内容的字体搭配，更好的选择字体。
 
