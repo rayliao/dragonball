@@ -61,9 +61,14 @@
 
 * [impress.js](https://github.com/impress/impress.js) - 幻灯片演示插件
 * [reveal.js](https://github.com/hakimel/reveal.js) - 幻灯片演示插件
+
 * [iconfont](http://iconfont.cn/) - 阿里巴巴矢量图标库，有很多的字体图标库可以用，可以直接导出使用。
 * [百度字体编辑器](http://font.baidu.com/editor/) - 可以方便导入导出字体文件，编辑单个字体图标图标。
 * [更好的选择英文字体](http://fontpair.co/) - 标题和内容的字体搭配，更好的选择字体。
+
+* [browserhacks](http://browserhacks.com/) - 浏览器的各种hack整理
+
+* [CSS3动画手册](http://isux.tencent.com/css3/index.html) - css3动画在线制作器
 
 ### 设计类
 
