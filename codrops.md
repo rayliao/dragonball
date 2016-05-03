@@ -17,3 +17,9 @@
 * [AnimatedTextFills](http://tympanus.net/Tutorials/AnimatedTextFills/index.html ) - 动画字体
 * [TextStylesHoverEffects](http://tympanus.net/Development/TextStylesHoverEffects/ ) - 动画字体，鼠标移上去的时候效果很好看。
 * [AnimatedHeaderBackgrounds](http://tympanus.net/Development/AnimatedHeaderBackgrounds/index.html ) - 动画背景，装饰。
+
+### Dialog, Fullscreen Overlay and Modal
+
+* [DialogEffects](http://tympanus.net/Development/DialogEffects/ )
+* [FullscreenOverlayStyles](http://tympanus.net/Development/FullscreenOverlayStyles/ )
+* [ModalWindowEffects](http://tympanus.net/Development/ModalWindowEffects/ )
