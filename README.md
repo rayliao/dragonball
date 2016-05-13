@@ -27,7 +27,7 @@
 ### 轮播
 
 * [Swiper](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
-* [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
+* [slick](https://github.com/kenwheeler/slick) - 很好用，很强大的一个轮播插件。
 * [fancyBox](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 
 ### 弹出
@@ -37,7 +37,7 @@
 ### 滚动
 
 * [iscroll](https://github.com/cubiq/iscroll) - 还没认真看过文档，不过应该是很好用的东西。
-* [parallax](https://github.com/wagerfield/parallax) - 鼠标响应页面元素的移动效果
+* [parallax](https://github.com/wagerfield/parallax) - 鼠标响应页面元素的移动效果（就是不支持低版本IE浏览器，应该要做下兼容的，没有效果，但也要显示正常嘛
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - 简单好用的全屏滚动插件
 
 ### 动画
@@ -45,6 +45,7 @@
 * [velocity](https://github.com/julianshapiro/velocity) - 兼容和性能都挺好的，挺全面的动画库
 * [bounce.js](https://github.com/tictail/bounce.js) - 漂亮的css3动画库
 * [threejs.js](http://threejs.org/) - 3d动画大全
+* [Hilo](https://github.com/hiloteam/Hilo) - Hilo是一个跨终端的互动小游戏解决方案
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - 基于svg，很强大的动画效果
 
 ### ES6

@@ -1,8 +1,14 @@
 ﻿# 网站收藏
 
-### 网站集合类
+### 精美网站集锦
+*都是很好看，很有创意的网站，应该多浏览欣赏。*
 
 * [reeoo.com](http://reeoo.com/)
 * [4db](http://4db.cc/)
 * [awwwards](http://www.awwwards.com/)
 
+### 工具类
+*提高生活质量。*
+
+* [百度脑图](http://naotu.baidu.com/)
+* [百度在线编辑文档](http://word.baidu.com/)
