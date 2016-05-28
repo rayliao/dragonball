@@ -42,11 +42,20 @@
 
 ### 动画
 
+#### js动画
+
 * [velocity](https://github.com/julianshapiro/velocity) - 兼容和性能都挺好的，挺全面的动画库
-* [bounce.js](https://github.com/tictail/bounce.js) - 漂亮的css3动画库
 * [threejs.js](http://threejs.org/) - 3d动画大全
 * [Hilo](https://github.com/hiloteam/Hilo) - Hilo是一个跨终端的互动小游戏解决方案
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - 基于svg，很强大的动画效果
+
+#### css动画
+
+* [bounce.js](https://github.com/tictail/bounce.js) - 漂亮的css3动画库
+* [Animate.css](https://daneden.github.io/animate.css/) - css3动画效果
+* [Hover.css](http://ianlunn.github.io/Hover/) - css的hover效果
+* [Effeckt.css](https://github.com/h5bp/Effeckt.css) - 包括弹出框，列表，按钮的多种效果
+
 
 ### ES6
 
@@ -55,7 +64,6 @@
 ### CSS框架/库
 
 * [normalize.css](https://github.com/necolas/normalize.css) - 一个用于重置浏览器内置样式的库，bootstrap也用这个。
-* [Animate.css](https://daneden.github.io/animate.css/) - css3动画效果
 * [css3lib](http://css3lib.alloyteam.com/) -  CSS3 UI 库，alloyteam团队出品 
 
 ### 工具类
