@@ -6,6 +6,7 @@
 
 ### Documentation
 
+* [docs](http://devdocs.io/)
 * [emmet](http://docs.emmet.io/cheat-sheet/)
 * [jquery](http://jquery.cuishifeng.cn/)
 
