@@ -6,6 +6,7 @@
 * [reeoo.com](http://reeoo.com/)
 * [4db](http://4db.cc/)
 * [awwwards](http://www.awwwards.com/)
+* [pixid](http://pixid.cn/)
 
 ### 工具类
 *提高生活质量。*
