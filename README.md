@@ -81,7 +81,6 @@
 
 ### 设计类
 
-### 说明
-**主要参考下面的lists**
+### 参考
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
