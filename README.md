@@ -14,7 +14,6 @@
 * [轮播](#轮播)
 * [弹出](#弹出)
 * [动画](#动画)
-* [ES6](#ES6)
 * [CSS框架/库](#CSS框架/库)
 * [工具类](#工具类)
 * [设计类](#设计类)
@@ -70,11 +69,6 @@
 * [Hover.css](http://ianlunn.github.io/Hover/) - css的hover效果
 * [Effeckt.css](https://github.com/h5bp/Effeckt.css) - 包括弹出框，列表，按钮的多种效果
 
-
-### ES6
-
-* [ECMAScript 6入门](http://es6.ruanyifeng.com/) - 是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新引入的语法特性。
-
 ### CSS框架/库
 
 * [normalize.css](https://github.com/necolas/normalize.css) - 一个用于重置浏览器内置样式的库，bootstrap也用这个。
@@ -94,6 +88,7 @@
 * [CSS3动画手册](http://isux.tencent.com/css3/index.html) - css3动画在线制作器
 
 ### 设计类
+* [Bootstrap Admin Template](http://getbootstrapadmin.com/remark/) - Bootstrap开发的多套后台管理模板
 
 ### 参考
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
