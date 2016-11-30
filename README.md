@@ -86,6 +86,7 @@
 * [browserhacks](http://browserhacks.com/) - 浏览器的各种hack整理
 
 * [CSS3动画手册](http://isux.tencent.com/css3/index.html) - css3动画在线制作器
+* [cssreference](http://cssreference.io/) css样式参照
 
 ### 设计类
 * [Bootstrap Admin Template](http://getbootstrapadmin.com/remark/) - Bootstrap开发的多套后台管理模板
