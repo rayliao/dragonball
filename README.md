@@ -76,6 +76,8 @@
 
 ### 工具类
 
+* [regexr](http://regexr.com/) - 在线正则表达式
+
 * [impress.js](https://github.com/impress/impress.js) - 幻灯片演示插件
 * [reveal.js](https://github.com/hakimel/reveal.js) - 幻灯片演示插件
 
