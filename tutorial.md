@@ -12,4 +12,6 @@
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
+### Books
 
+* [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/character-encoding.html)
