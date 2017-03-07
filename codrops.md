@@ -1,6 +1,6 @@
 ﻿# Codrops收藏
 
-### ccc3点睛之笔
+### css3点睛之笔
 
 * [CreativeLinkEffects](http://tympanus.net/Development/CreativeLinkEffects/) - 多种链接或按钮的效果，很特别。
 * [ButtonStylesInspiration](http://tympanus.net/Development/ButtonStylesInspiration/ ) - 多种按钮样式效果。
@@ -23,3 +23,7 @@
 * [DialogEffects](http://tympanus.net/Development/DialogEffects/ )
 * [FullscreenOverlayStyles](http://tympanus.net/Development/FullscreenOverlayStyles/ )
 * [ModalWindowEffects](http://tympanus.net/Development/ModalWindowEffects/ )
+
+### Grid, Images, List Effect
+
+* [DirectionAwareHoverEffect](https://tympanus.net/TipsTricks/DirectionAwareHoverEffect/)
