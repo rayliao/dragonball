@@ -89,6 +89,7 @@
 
 * [CSS3动画手册](http://isux.tencent.com/css3/index.html) - css3动画在线制作器
 * [cssreference](http://cssreference.io/) css样式参照
+* [emmet docs](https://docs.emmet.io/cheat-sheet/) html快速缩写参考
 
 ### 设计类
 * [Bootstrap Admin Template](http://getbootstrapadmin.com/remark/) - Bootstrap开发的多套后台管理模板
