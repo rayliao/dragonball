@@ -1,5 +1,6 @@
 ﻿# Dragonball <!-- omit in toc -->
 
+## Contents <!-- omit in toc -->
 - [数据可视化](#数据可视化)
 - [程序功能](#程序功能)
 - [数字](#数字)
