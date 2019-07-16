@@ -22,6 +22,7 @@ No need to add so far
 * [百度脑图](http://naotu.baidu.com/)
 * [百度在线编辑文档](http://word.baidu.com/)
 * [Google在线文档](https://docs.google.com)
+* [lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=zh-cn) - 开源的自动化工具，用于改进网络应用的质量。
 
 **Coding Tools**
 

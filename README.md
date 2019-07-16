@@ -1,22 +1,24 @@
 ﻿# Dragonball
 
-对自己有用的收藏，有七颗的量，就可以召唤龙珠了。
+- [Dragonball](#Dragonball)
+    - [数据可视化](#数据可视化)
+    - [程序功能](#程序功能)
+    - [数字](#数字)
+    - [验证](#验证)
+    - [轮播](#轮播)
+    - [弹出](#弹出)
+    - [滚动](#滚动)
+    - [动画](#动画)
+      - [Javascript](#Javascript)
+      - [CSS](#CSS)
+    - [CSS框架/库](#CSS框架库)
+    - [工具类](#工具类)
+    - [设计类](#设计类)
+    - [参考](#参考)
+
 * [codrops收藏](codrops.md)
 * [网站收藏](website.md)
 * [教程集合](tutorial.md)
-
-# Table of Contents
-
-* [数据可视化](#数据可视化)
-* [程序功能](#程序功能)
-* [数字](#数字)
-* [验证](#验证)
-* [轮播](#轮播)
-* [弹出](#弹出)
-* [动画](#动画)
-* [CSS框架/库](#CSS框架/库)
-* [工具类](#工具类)
-* [设计类](#设计类)
 
 ### 数据可视化
 
@@ -55,14 +57,14 @@
 
 ### 动画
 
-#### js动画
+#### Javascript
 
 * [velocity](https://github.com/julianshapiro/velocity) - 兼容和性能都挺好的，挺全面的动画库
 * [threejs.js](http://threejs.org/) - 3d动画大全
 * [Hilo](https://github.com/hiloteam/Hilo) - Hilo是一个跨终端的互动小游戏解决方案
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - 基于svg，很强大的动画效果
 
-#### css动画
+#### CSS
 
 * [bounce.js](https://github.com/tictail/bounce.js) - 漂亮的css3动画库
 * [Animate.css](https://daneden.github.io/animate.css/) - css3动画效果
