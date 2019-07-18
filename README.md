@@ -12,6 +12,7 @@
   - [Javascript](#Javascript)
   - [CSS](#CSS)
 - [CSS框架/库](#CSS框架库)
+- [部署服务](#部署服务)
 - [工具类](#工具类)
 - [设计类](#设计类)
 - [参考](#参考)
@@ -81,7 +82,12 @@
 ### CSS框架/库
 
 * [normalize.css](https://github.com/necolas/normalize.css) - 一个用于重置浏览器内置样式的库，bootstrap也用这个。
-* [css3lib](http://css3lib.alloyteam.com/) -  CSS3 UI 库，alloyteam团队出品 
+* [css3lib](http://css3lib.alloyteam.com/) -  CSS3 UI 库，alloyteam团队出品
+
+### 部署服务
+
+* [Now](https://zeit.co/now) - 很简洁很方便
+* [AWS Amplify Console](aws.amazon.com) - 也很方便使用，就是打开太慢了
 
 ### 工具类
 
