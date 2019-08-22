@@ -1,10 +1,15 @@
 ﻿# 教程集合 <!-- omit in toc -->
 
+- [Tech](#tech)
 - [FrontEnd](#frontend)
   - [JavaScript](#javascript)
   - [React-Native](#react-native)
   - [Documentation](#documentation)
 - [Books](#books)
+
+## Tech
+
+* [LeetCode](https://leetcode-cn.com)- 题库- 力扣(LeetCode) 全球极客挚爱的技术成长平台
 
 ## FrontEnd
 
