@@ -20,14 +20,19 @@
 * [百度脑图](http://naotu.baidu.com/)
 * [百度在线编辑文档](http://word.baidu.com/)
 * [Google在线文档](https://docs.google.com)
+  
 * [lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=zh-cn) - 开源的自动化工具，用于改进网络应用的质量。
 * [Tools for Web Developers](https://developers.google.com/web/tools/) - google tools
+* [distrotest](https://distrotest.net/ ) - 可在浏览器运行Linux那些系统
+
 * [launchaco](https://www.launchaco.com/logo) - 免费生成logo
 * [looka](https://looka.com) - 免费生成logo
+* [photomosh](https://photomosh.com/) - 一键生成故障艺术的照片
 
 **Coding Tools**
 
 * [Cloud9](https://c9.io/) - Online IDE
+* [glitch](https://glitch.com) - 在线编写代码，可直接部署，多人协作，集成挺多东西挺方便
 * [Now](https://zeit.co/now)
 
 **Design tools**
