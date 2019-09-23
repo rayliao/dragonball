@@ -29,6 +29,8 @@
 * [looka](https://looka.com) - 免费生成logo
 * [photomosh](https://photomosh.com/) - 一键生成故障艺术的照片
 
+* [聚宽量化交易平台](https://www.joinquant.com) - 量化交易
+
 **Coding Tools**
 
 * [Cloud9](https://c9.io/) - Online IDE
@@ -42,6 +44,7 @@
 ### 收藏
 
 * [植物画册](https://www.c82.net/twining/) - 1865年，英国著名女插画家 Elizabeth Twining 出版了二卷本的《植物画册》，包含160幅全彩色的植物插图。该网站将这160幅画都上线，可以下载。打印出来，挂在墙上是很好的装饰品。
+* [versionmuseum](https://www.versionmuseum.com/) - 版本博物馆
 
 ### 集合
 

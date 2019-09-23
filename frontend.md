@@ -57,9 +57,15 @@
 #### Javascript
 
 * [velocity](https://github.com/julianshapiro/velocity) - 兼容和性能都挺好的，挺全面的动画库
-* [threejs.js](http://threejs.org/) - 3d动画大全
+* [threejs.js](http://threejs.org/) - 3d动画引擎
+* [pixi.js](https://www.pixijs.com/) - HTML5的2D引擎
+* [zdog](https://github.com/metafizzy/zdog) - 圆润，设计友好的3D引擎
 * [Hilo](https://github.com/hiloteam/Hilo) - Hilo是一个跨终端的互动小游戏解决方案
+* [animejs](https://animejs.com) - JavaScript animation engine 
+* [mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
+* [vivus](https://maxwellito.github.io/vivus/) - animate SVGs
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - 基于svg，很强大的动画效果
+* [progressbar](https://kimmobrunfeldt.github.io/progressbar.js/) - 进度条效果
 
 #### CSS
 
@@ -67,6 +73,10 @@
 * [Animate.css](https://daneden.github.io/animate.css/) - css3动画效果
 * [Hover.css](http://ianlunn.github.io/Hover/) - css的hover效果
 * [Effeckt.css](https://github.com/h5bp/Effeckt.css) - 包括弹出框，列表，按钮的多种效果
+* [moving-letters](https://tobiasahlin.com/moving-letters/) - 多种文字效果
+* [Tasty CSS-animated hamburgers](https://jonsuh.com/hamburgers/) - 多种菜单图标切换效果
+
+* [animateplus](https://github.com/bendc/animateplus)
 
 **titl**
 
@@ -82,6 +92,7 @@
 
 * [normalize.css](https://github.com/necolas/normalize.css) - 一个用于重置浏览器内置样式的库，bootstrap也用这个。
 * [css3lib](http://css3lib.alloyteam.com/) -  CSS3 UI 库，alloyteam团队出品
+* [pretty-checkbox](https://lokesh-coder.github.io/pretty-checkbox/) - 复选框样式
 
 ### 部署服务
 
