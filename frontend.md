@@ -15,12 +15,15 @@
 - [部署服务](#部署服务)
 - [工具类](#工具类)
 - [设计类](#设计类)
+- [集合](#集合)
 - [参考](#参考)
 
 ### 数据可视化
 
 * [d3](https://github.com/mbostock/d3) - 基于D3的图表库.
 * [echarts](https://github.com/ecomfe/echarts) - 百度图表
+* [chart.xkcd](https://timqian.com/chart.xkcd/) - 漫画风格的网页图表库
+* [roughjs](https://roughjs.com/) - 生成手绘风格图片的 JS 库
 
 ### 程序功能
 *Functional programming libraries to extend JavaScript’s capabilities.*
@@ -98,6 +101,7 @@
 
 * [Now](https://zeit.co/now) - 很简洁很方便
 * [AWS Amplify Console](aws.amazon.com) - 也很方便使用，就是打开太慢了
+* [base-api](https://www.base-api.io/)  - 云服务公司提供基本的 Web API，包括身份验证、电子邮件发送、文件和图像存储。用法简单，容易上手，作为概念产品很不错。微信小程序
 
 ### 工具类
 
@@ -118,6 +122,10 @@
 
 ### 设计类
 * [Bootstrap Admin Template](http://getbootstrapadmin.com/remark/) - Bootstrap开发的多套后台管理模板
+
+### 集合
+
+* [free-for](https://free-for.dev/) - 该仓库收集互联网上的免费开发者资源
 
 ### 参考
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
