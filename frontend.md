@@ -126,6 +126,7 @@
 ### 集合
 
 * [free-for](https://free-for.dev/) - 该仓库收集互联网上的免费开发者资源
+* [single div](https://a.singlediv.com/) - 只用css3写的图标图形
 
 ### 参考
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
