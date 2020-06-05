@@ -54,3 +54,4 @@
 * [Free & beautiful Videos](https://mixkit.co/) - 精美的短视频
 * [Open Source Game Clones](https://osgameclones.com/) - 开源游戏合集
 * [Geek Prank](https://geekprank.com/) - 极客很酷的界面
+* [奇趣网站收藏家](https://fuun.fun/)
