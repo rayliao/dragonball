@@ -96,6 +96,7 @@
 * [normalize.css](https://github.com/necolas/normalize.css) - 一个用于重置浏览器内置样式的库，bootstrap也用这个。
 * [css3lib](http://css3lib.alloyteam.com/) -  CSS3 UI 库，alloyteam团队出品
 * [pretty-checkbox](https://lokesh-coder.github.io/pretty-checkbox/) - 复选框样式
+* [css-loaders](https://css-loaders.com/) - 收集各种 CSS 的页面加载特效
 
 ### 部署服务
 
